@@ -16,7 +16,7 @@ Añadelo en tu server.cfg como DP-Tattoos. (Si le cambias el nombre, dejara de f
 
 <h1>Video</h1>
 
-<a href="https://youtu.be/tv3oKkkCl1s">Video del Script</a>
+<a href="https://youtu.be/w6nuz-chJdY">Video del Script</a>
 
 <h1>Fotos</h1>
 
