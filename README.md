@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8d4e36ca-b3d2-4b9f-8db7-ae37c2c38a6c)# DP-Tattoos
+# DP-Tattoos
 Hola, jugadores. Hoy voy a publicar otro script de UI. Se trata de un script de tatuajes para personajes y es totalmente gratuita. Soy un desarrollador novato por lo que es posible que tenga fallos... si quieren que cree UI personalizadas para tus servidores FiveM, no duden en ponerse en contacto conmigo.
 
 <h1>Caracteristicas</h1>
