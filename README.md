@@ -11,7 +11,7 @@ Descarga el script y metelo donde tengas el resto de scripts. <br>
 Añadelo en tu server.cfg como DP-Tattoos. (Si le cambias el nombre, dejara de funcionar)
 
 <h1>Necesitas</h1>
-- DP-TextUI
+- <a href="">DP-TextUI</a> Proximamente en Open Source<br>
 - qb-core/qbx_core/ox_core
 
 <h1>Video</h1>
