@@ -3,7 +3,7 @@ Hola, jugadores. Hoy voy a publicar otro script de UI. Se trata de un script de 
 
 <h1>Caracteristicas</h1>
 Puedes añadir/eliminar tattoos a tu elección.<br>
-Te da la opcion de elegir si quieres pagar en efectivo o por banco.
+Te da la opcion de elegir si quieres pagar en efectivo o por banco.<br>
 Más de 1.000 tattoos defaults de GTA y customs. (Total 1.762)
 
 <h1>Manual de instalación</h1>
